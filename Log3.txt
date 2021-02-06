@@ -1,0 +1,309 @@
+
+LA Visit 2015 Photos
+  7%|███████▉                                                                                                          | 21/301 [00:43<10:17,  2.21s/it]ERROR:root:Could not read file 'images3/LA Visit 2015 Photos/another copy' -- [Errno 13] Permission denied: 'images3/LA Visit 2015 Photos/another copy'   
+
+  1%|▋                                                                                                                  | 1/164 [00:00<02:12,  1.23it/s]ERROR:root:Could not read file 'images3/Marryland 2008 Visit/iPod Photo Cache' -- [Errno 13] Permission denied: 'images3/Marryland 2008 Visit/iPod Photo Cache'
+
+ 50%|██████████████████████████████████████████████████████████▌                                                          | 1/2 [00:00<00:00,  1.24it/s]ERROR:root:Could not read file 'images3/minunajay/Camping 2010' -- [Errno 13] Permission denied: 'images3/minunajay/Camping 2010'
+
+ 95%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████▎     | 76/80 [02:57<00:08,  2.20s/it]ERROR:root:Could not read file 'images3/Mohit Bhende 2008 Wedding/iPod Photo Cache' -- [Errno 13] Permission denied: 'images3/Mohit Bhende 2008 Wedding/iPod Photo Cache'
+ERROR:root:Could not read file 'images3/Mohit Bhende 2008 Wedding/Originals' -- [Errno 13] Permission denied: 'images3/Mohit Bhende 2008 Wedding/Originals'
+
+  8%|█████████▋                                                                                                          | 4/48 [00:08<01:32,  2.09s/it]ERROR:root:Could not read file 'images3/Naman-General/2012' -- [Errno 13] Permission denied: 'images3/Naman-General/2012'
+ 92%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▍         | 44/48 [01:30<00:08,  2.04s/it]ERROR:root:Could not read file 'images3/Naman-General/Naman Theraphist' -- [Errno 13] Permission denied: 'images3/Naman-General/Naman Theraphist'
+
+ 95%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████▌     | 61/64 [02:14<00:05,  1.90s/it]ERROR:root:Could not read file 'images3/Nyati Washignton Trip 2008/Originals' -- [Errno 13] Permission denied: 'images3/Nyati Washignton Trip 2008/Originals'
+
+  0%|                                                                                                                            | 0/47 [00:00<?, ?it/s]ERROR:root:Could not read file 'images3/Photos Another copy/331CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/331CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/332CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/332CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/333CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/333CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/334CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/334CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/335CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/335CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/336CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/336CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/337CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/337CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/338CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/338CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/340CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/340CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/341CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/341CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/342CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/342CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/343CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/343CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/344CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/344CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/345CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/345CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/346CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/346CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/347CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/347CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/348CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/348CANON'
+17/47 [00:00<00:00, 152.19it/s]ERROR:root:Could not read file 'images3/Photos Another copy/349CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/349CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/350CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/350CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/351CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/351CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/352CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/352CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/353CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/353CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/354CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/354CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/355CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/355CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/356CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/356CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/357CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/357CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/358CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/358CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/359CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/359CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/360CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/360CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/361CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/361CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/362CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/362CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/363CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/363CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/364CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/364CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/365CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/365CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/366CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/366CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/367CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/367CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/368CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/368CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/369CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/369CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/370CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/370CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/371CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/371CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/372CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/372CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/373CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/373CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/374CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/374CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/375CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/375CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/376CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/376CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/377CANON' -- [Errno 13] Permission denied: 'images3/Photos Another copy/377CANON'
+ERROR:root:Could not read file 'images3/Photos Another copy/CANONMSC' -- [Errno 13] Permission denied: 'images3/Photos Another copy/CANONMSC'
+
+
+                                                                                                                   | 0/116 [00:00<?, ?it/s]ERROR:root:Could not read file 'images3/Photos Unsorted/210CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/210CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/211CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/211CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/212CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/212CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/213CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/213CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/214CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/214CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/215CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/215CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/216CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/216CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/217CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/217CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/218CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/218CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/219CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/219CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/220CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/220CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/221CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/221CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/222CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/222CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/223CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/223CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/224CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/224CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/225CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/225CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/226CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/226CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/227CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/227CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/228CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/228CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/229CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/229CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/230CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/230CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/231CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/231CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/232CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/232CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/233CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/233CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/234CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/234CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/235CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/235CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/236CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/236CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/237CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/237CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/238CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/238CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/239CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/239CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/240CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/240CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/241CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/241CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/242CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/242CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/243CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/243CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/244CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/244CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/245CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/245CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/246CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/246CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/247CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/247CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/248CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/248CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/249CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/249CANON'
+40/116 [00:00<00:00, 378.43it/s]ERROR:root:Could not read file 'images3/Photos Unsorted/250CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/250CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/251CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/251CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/252CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/252CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/253CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/253CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/254CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/254CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/255CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/255CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/256CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/256CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/257CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/257CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/258CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/258CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/259CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/259CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/260CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/260CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/261CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/261CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/262CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/262CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/263CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/263CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/264CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/264CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/265CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/265CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/266CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/266CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/267CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/267CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/268CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/268CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/269CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/269CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/270CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/270CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/271CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/271CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/272CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/272CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/273CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/273CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/274CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/274CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/275CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/275CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/276CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/276CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/277CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/277CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/278CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/278CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/279CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/279CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/280CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/280CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/281CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/281CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/282CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/282CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/283CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/283CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/284CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/284CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/285CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/285CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/286CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/286CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/287CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/287CANON'
+ 78/116 [00:00<00:00, 373.48it/s]ERROR:root:Could not read file 'images3/Photos Unsorted/288CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/288CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/289CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/289CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/290CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/290CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/291CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/291CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/292CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/292CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/293CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/293CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/294CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/294CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/295CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/295CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/296CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/296CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/297CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/297CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/298CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/298CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/299CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/299CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/300CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/300CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/301CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/301CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/302CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/302CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/303CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/303CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/304CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/304CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/305CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/305CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/306CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/306CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/307CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/307CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/308CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/308CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/309CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/309CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/310CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/310CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/311CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/311CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/312CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/312CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/313CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/313CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/314CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/314CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/315CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/315CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/316CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/316CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/317CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/317CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/318CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/318CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/319CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/319CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/320CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/320CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/321CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/321CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/322CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/322CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/323CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/323CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/324CANON' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/324CANON'
+ERROR:root:Could not read file 'images3/Photos Unsorted/Camera photos_Sep-2015' -- [Errno 13] Permission denied: 'images3/Photos Unsorted/Camera photos_Sep-2015'
+
+
+Photos Unsorted Nov 2012
+  0%|                                                                                                                             | 0/1 [00:00<?, ?it/s]ERROR:root:Could not read file 'images3/Photos Unsorted Nov 2012/pics' -- [Errno 13] Permission denied: 'images3/Photos Unsorted Nov 2012/pics'
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 502.13it/s] 
+
+Photosh Unsorted Jul 2013
+  0%|▌                                                                                                                  | 1/214 [00:01<06:21,  1.79s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00261.JPG' to library -- Failed: There was an error while trying to create this media item.
+  1%|█▌                                                                                                                 | 3/214 [00:04<05:46,  1.64s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00266.JPG' to library -- Failed: There was an error while trying to create this media item.
+  2%|██▋                                                                                                                | 5/214 [00:09<07:13,  2.07s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00274.JPG' to library -- Failed: There was an error while trying to create this media item.
+  3%|███▏                                                                                                               | 6/214 [00:10<06:09,  1.78s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00278.JPG' to library -- Failed: There was an error while trying to create this media item.
+  3%|███▊                                                                                                               | 7/214 [00:11<05:22,  1.56s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00279.JPG' to library -- Failed: There was an error while trying to create this media item.
+  4%|████▎                                                                                                              | 8/214 [00:12<04:43,  1.38s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00280.JPG' to library -- Failed: There was an error while trying to create this media item.
+  4%|████▊                                                                                                              | 9/214 [00:14<05:04,  1.48s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00281.JPG' to library -- Failed: There was an error while trying to create this media item.
+  5%|█████▎                                                                                                            | 10/214 [00:15<04:35,  1.35s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00282.JPG' to library -- Failed: There was an error while trying to create this media item.
+  5%|█████▊                                                                                                            | 11/214 [00:16<04:11,  1.24s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00283.JPG' to library -- Failed: There was an error while trying to create this media item.
+  6%|██████▍                                                                                                           | 12/214 [00:19<05:57,  1.77s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00284.JPG' to library -- Failed: There was an error while trying to create this media item.
+  6%|██████▉                                                                                                           | 13/214 [00:20<05:45,  1.72s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00285.JPG' to library -- Failed: There was an error while trying to create this media item.
+  7%|███████▍                                                                                                          | 14/214 [00:22<05:16,  1.58s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00286.JPG' to library -- Failed: There was an error while trying to create this media item.
+  7%|███████▉                                                                                                          | 15/214 [00:24<05:53,  1.78s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00287.JPG' to library -- Failed: There was an error while trying to create this media item.
+  7%|████████▌                                                                                                         | 16/214 [00:25<05:09,  1.56s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00288.JPG' to library -- Failed: There was an error while trying to create this media item.
+  8%|█████████                                                                                                         | 17/214 [00:26<04:40,  1.42s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00289.JPG' to library -- Failed: There was an error while trying to create this media item.
+  8%|█████████▌                                                                                                        | 18/214 [00:27<04:22,  1.34s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00290.JPG' to library -- Failed: There was an error while trying to create this media item.
+  9%|██████████                                                                                                        | 19/214 [00:28<04:03,  1.25s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00291.JPG' to library -- Failed: There was an error while trying to create this media item.
+  9%|██████████▋                                                                                                       | 20/214 [00:29<03:58,  1.23s/itE 
+RROR:root:3
+ERROR:root:Could not add 'DSC00292.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 10%|███████████▏                                                                                                      | 21/214 [00:31<03:54,  1.22s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00293.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 10%|███████████▋                                                                                                      | 22/214 [00:33<04:58,  1.55s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00294.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 11%|████████████▊                                                                                                     | 24/214 [00:36<05:17,  1.67s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00296.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 12%|█████████████▊                                                                                                    | 26/214 [00:41<06:19,  2.02s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00301.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 13%|██████████████▍                                                                                                   | 27/214 [00:42<05:16,  1.69s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00302.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 13%|██████████████▉                                                                                                   | 28/214 [00:43<04:35,  1.48s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00305.JPG' to library -- Failed: There was an error while trying to create this media item.
+ 14%|████████████████▌                                                                                                 | 31/214 [00:49<05:56,  1.95s/it]ERROR:root:3
+ERROR:root:Could not add 'DSC00307.JPG' to library -- Failed: There was an error while trying to create this media item.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 214/214 [08:14<00:00,  2.31s/it] 
+
+
+pics from hp laptop 2012
+  0%|                                                                                                                            | 0/40 [00:00<?, ?it/s]ERROR:root:Could not read file 'images3/pics from hp laptop 2012/340CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/340CANON'   
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/341CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/341CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/342CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/342CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/343CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/343CANON'
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/344CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/344CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/345CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/345CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/346CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/346CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/347CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/347CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/348CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/348CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/349CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/349CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/350CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/350CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/351CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/351CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/352CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/352CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/353CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/353CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/354CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/354CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/355CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/355CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/356CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/356CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/357CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/357CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/358CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/358CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/359CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/359CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/360CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/360CANON'
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/361CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/361CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/362CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/362CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/363CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/363CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/364CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/364CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/365CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/365CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/366CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/366CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/367CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/367CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/368CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/368CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/369CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/369CANON'
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/370CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/370CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/371CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/371CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/372CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/372CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/373CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/373CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/374CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/374CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/375CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/375CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/376CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/376CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/377CANON' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/377CANON'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/CANONMSC' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/CANONMSC'  
+ERROR:root:Could not read file 'images3/pics from hp laptop 2012/temp' -- [Errno 13] Permission denied: 'images3/pics from hp laptop 2012/temp'
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 40/40 [00:00<00:00, 954.93it/s] 
+
+
+ 25%|█████████████████████████████▎                                                                                       | 1/4 [00:01<00:04,  1.42s/it]ERROR:root:Could not read file 'images3/Potrait/Kunal 2002' -- [Errno 13] Permission denied: 'images3/Potrait/Kunal 2002'
+
+
+ 50%|██████████████████████████████████████████████████████████▌                                                          | 1/2 [00:00<00:00,  1.44it/s]ERROR:root:Could not read file 'images3/pradeepfulay/2009_10_24  Maharashtra Mandal Diwali, Bradford Woods School' -- [Errno 13] Permission denied: 'images3/pradeepfulay/2009_10_24  Maharashtra Mandal Diwali, Bradford Woods School'
+
+  0%|                                                                                                                             | 0/4 [00:00<?, ?it/s]ERROR:root:Could not read file 'images3/Raghav Shadi/100LAB 90_' -- [Errno 13] Permission denied: 'images3/Raghav Shadi/100LAB 90_'
+ERROR:root:Could not read file 'images3/Raghav Shadi/101LAB 90-' -- [Errno 13] Permission denied: 'images3/Raghav Shadi/101LAB 90-'
+ERROR:root:Could not read file 'images3/Raghav Shadi/Wedding' -- [Errno 13] Permission denied: 'images3/Raghav Shadi/Wedding'
+ERROR:root:Could not read file 'images3/Raghav Shadi/Wedding 1' -- [Errno 13] Permission denied: 'images3/Raghav Shadi/Wedding 1'
+
+4192.393485069275

@@ -1,0 +1,16 @@
+
+12/30/2020 03_56_30 PM upload.upload_photos:ERROR:Could not read file 'images4/Santosh/facebook' -- [Errno 13] Permission denied: 'images4/Santosh/facebook'
+12/30/2020 03_57_08 PM upload.upload_photos:ERROR:Could not read file 'images4/Santosh/Linkdn' -- [Errno 13] Permission denied: 'images4/Santosh/Linkdn'
+12/30/2020 03_57_08 PM upload.upload_photos:ERROR:Could not read file 'images4/Santosh/Manibai' -- [Errno 13] Permission denied: 'images4/Santosh/Manibai'
+
+12/30/2020 04_06_14 PM upload.upload_photos:ERROR:Could not add 'DSC_0046.JPG' to library. Server Response -- {'error': {'code': 409, 'message': 'The operation was aborted.', 'status': 'ABORTED'}}
+
+12/30/2020 04_19_10 PM upload.upload_photos:ERROR:Could not read file 'images4/Shilpa Photos - Nov 2015/final' -- [Errno 13] Permission denied: 'images4/Shilpa Photos - Nov 2015/final'
+12/30/2020 04_24_28 PM upload.upload_photos:ERROR:Could not read file 'images4/Shilpa Photos for 40th Birthday/final' -- [Errno 13] Permission denied: 'images4/Shilpa Photos for 40th Birthday/final'
+
+
+12/30/2020 04_45_39 PM upload.upload_photos:ERROR:Could not read file 'images4/Videos/2013' -- [Errno 13] Permission denied: 'images4/Videos/2013'
+12/30/2020 04_45_39 PM upload.upload_photos:ERROR:Could not read file 'images4/Videos/2014' -- [Errno 13] Permission denied: 'images4/Videos/2014'
+
+
+12/30/2020 05_00_37 PM upload.upload_photos:ERROR:Could not read file 'images4/What'sApp Sharing Photos/Nasik' -- [Errno 13] Permission denied: "images4/What'sApp Sharing Photos/Nasik"

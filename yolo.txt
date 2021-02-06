@@ -1,0 +1,84 @@
+12/31/2020 11_58_15 AM upload.upload_photos:ERROR:3
+12/31/2020 11_58_15 AM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 11_58_24 AM upload.upload_photos:ERROR:Could not read file 'images4/Santosh/facebook' -- [Errno 13] Permission denied: 'images4/Santosh/facebook'
+12/31/2020 11_58_57 AM upload.upload_photos:ERROR:Could not read file 'images4/Santosh/Linkdn' -- [Errno 13] Permission denied: 'images4/Santosh/Linkdn'
+12/31/2020 11_58_57 AM upload.upload_photos:ERROR:Could not read file 'images4/Santosh/Manibai' -- [Errno 13] Permission denied: 'images4/Santosh/Manibai'
+12/31/2020 11_59_03 AM upload.upload_photos:ERROR:3
+12/31/2020 11_59_03 AM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_05_41 PM upload.upload_photos:ERROR:3
+12/31/2020 12_05_41 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_06_48 PM upload.upload_photos:ERROR:3
+12/31/2020 12_06_48 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_06_56 PM upload.upload_photos:ERROR:3
+12/31/2020 12_06_56 PM upload.upload_photos:ERROR:Could not add '.picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_15_57 PM upload.upload_photos:ERROR:3
+12/31/2020 12_15_57 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_22_46 PM upload.upload_photos:ERROR:Could not read file 'images4/Shilpa Photos - Nov 2015/final' -- [Errno 13] Permission denied: 'images4/Shilpa Photos - Nov 2015/final'
+12/31/2020 12_26_50 PM upload.upload_photos:ERROR:Could not read file 'images4/Shilpa Photos for 40th Birthday/final' -- [Errno 13] Permission denied: 'images4/Shilpa Photos for 40th Birthday/final'
+12/31/2020 12_32_53 PM upload.upload_photos:ERROR:3
+12/31/2020 12_32_53 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_32_54 PM upload.upload_photos:ERROR:3
+12/31/2020 12_32_54 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_34_10 PM upload.upload_photos:ERROR:3
+12/31/2020 12_34_10 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_38_31 PM upload.upload_photos:ERROR:3
+12/31/2020 12_38_31 PM upload.upload_photos:ERROR:Could not add 'MVI_7982.AVI.modd' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_38_32 PM upload.upload_photos:ERROR:3
+12/31/2020 12_38_32 PM upload.upload_photos:ERROR:Could not add 'MVI_7982.AVI.moff' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_38_45 PM upload.upload_photos:ERROR:3
+12/31/2020 12_38_45 PM upload.upload_photos:ERROR:Could not add 'MVI_7983.AVI.modd' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_38_45 PM upload.upload_photos:ERROR:3
+12/31/2020 12_38_45 PM upload.upload_photos:ERROR:Could not add 'MVI_7983.AVI.moff' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_38_50 PM upload.upload_photos:ERROR:3
+12/31/2020 12_38_50 PM upload.upload_photos:ERROR:Could not add 'MVI_7986.AVI.modd' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_38_51 PM upload.upload_photos:ERROR:3
+12/31/2020 12_38_51 PM upload.upload_photos:ERROR:Could not add 'MVI_7986.AVI.moff' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_04 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_04 PM upload.upload_photos:ERROR:Could not add 'MVI_7987.AVI.modd' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_05 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_05 PM upload.upload_photos:ERROR:Could not add 'MVI_7987.AVI.moff' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_11 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_11 PM upload.upload_photos:ERROR:Could not add 'MVI_7988.AVI.modd' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_12 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_12 PM upload.upload_photos:ERROR:Could not add 'MVI_7988.AVI.moff' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_14 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_14 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_25 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_25 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_39_25 PM upload.upload_photos:ERROR:3
+12/31/2020 12_39_25 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_40_30 PM upload.upload_photos:ERROR:3
+12/31/2020 12_40_30 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_40_47 PM upload.upload_photos:ERROR:3
+12/31/2020 12_40_47 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_41_07 PM upload.upload_photos:ERROR:3
+12/31/2020 12_41_07 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_41_52 PM upload.upload_photos:ERROR:3
+12/31/2020 12_41_52 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_41_53 PM upload.upload_photos:ERROR:3
+12/31/2020 12_41_53 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_43_28 PM upload.upload_photos:ERROR:3
+12/31/2020 12_43_28 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_43_28 PM upload.upload_photos:ERROR:3
+12/31/2020 12_43_28 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_44_02 PM upload.upload_photos:ERROR:Could not read file 'images4/US Open Pictures Jun07/iPod Photo Cache' -- [Errno 13] Permission denied: 'images4/US Open Pictures Jun07/iPod Photo Cache'
+12/31/2020 12_44_02 PM upload.upload_photos:ERROR:3
+12/31/2020 12_44_02 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_44_03 PM upload.upload_photos:ERROR:3
+12/31/2020 12_44_03 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_44_40 PM upload.upload_photos:ERROR:Could not read file 'images4/Videos/2013' -- [Errno 13] Permission denied: 'images4/Videos/2013'
+12/31/2020 12_44_40 PM upload.upload_photos:ERROR:Could not read file 'images4/Videos/2014' -- [Errno 13] Permission denied: 'images4/Videos/2014'
+12/31/2020 12_44_41 PM upload.upload_photos:ERROR:3
+12/31/2020 12_44_41 PM upload.upload_photos:ERROR:Could not add 'mmpgh_ganpati_program2001.jlp' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_44_42 PM upload.upload_photos:ERROR:3
+12/31/2020 12_44_42 PM upload.upload_photos:ERROR:Could not add 'mmpgh_ganpati_program2001.vna' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_44_48 PM upload.upload_photos:ERROR:3
+12/31/2020 12_44_48 PM upload.upload_photos:ERROR:Could not add 'nasik_2001_theather_etc.jlp' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_44_49 PM upload.upload_photos:ERROR:3
+12/31/2020 12_44_49 PM upload.upload_photos:ERROR:Could not add 'nasik_2001_theather_etc.vna' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_45_25 PM upload.upload_photos:ERROR:3
+12/31/2020 12_45_25 PM upload.upload_photos:ERROR:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_45_32 PM upload.upload_photos:ERROR:3
+12/31/2020 12_45_32 PM upload.upload_photos:ERROR:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+12/31/2020 12_48_02 PM upload.upload_photos:ERROR:Could not read file 'images4/What'sApp Sharing Photos/iPod Photo Cache' -- [Errno 13] Permission denied: "images4/What'sApp Sharing Photos/iPod Photo Cache"
+12/31/2020 12_48_02 PM upload.upload_photos:ERROR:Could not read file 'images4/What'sApp Sharing Photos/Nasik' -- [Errno 13] Permission denied: "images4/What'sApp Sharing Photos/Nasik"

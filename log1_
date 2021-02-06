@@ -1,0 +1,30 @@
+Bai Photos
+  3%|███▉                                                                                                                | 2/59 [00:04<01:55,  2.02s/it]ERROR:root:Could not read file 'images/Bai Photos/backup' -- [Errno 13] Permission denied: 'images/Bai Photos/backup'
+ 39%|████████████████████████████████████████████▊                                                                      | 23/59 [01:11<01:15,  2.10s/it]ERROR:root:Could not read file 'images/Bai Photos/final' -- [Errno 13] Permission denied: 'images/Bai Photos/final'
+ 97%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████    | 57/59 [02:13<00:03,  1.76s/it]ERROR:root:Could not read file 'images/Bai Photos/Potrait' -- [Errno 13] Permission denied: 'images/Bai Photos/Potrait'
+ERROR:root:Could not read file 'images/Bai Photos/t' -- [Errno 13] Permission denied: 'images/Bai Photos/t'
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 59/59 [02:13<00:00,  2.26s/it] 
+BeFree 2008 Get Together
+ 96%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▍    | 24/25 [00:46<00:01,  1.98s/it]ERROR:root:3
+ERROR:root:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 25/25 [00:47<00:00,  1.91s/it] 
+BeFree Days
+ 21%|████████████████████████▊                                                                                           | 3/14 [00:08<00:35,  3.27s/it]ERROR:root:3
+ERROR:root:Could not add 'dbas.doc' to library -- Failed: There was an error while trying to create this media item.
+ 64%|██████████████████████████████████████████████████████████████████████████▌                                         | 9/14 [00:19<00:10,  2.12s/it]ERROR:root:3
+ERROR:root:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+ 93%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▊        | 13/14 [00:26<00:01,  1.83s/it]ERROR:root:3
+ERROR:root:Could not add 'yves.ppt' to library -- Failed: There was an error while trying to create this media item.
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:27<00:00,  1.95s/it] 
+Bollyhood
+ 50%|██████████████████████████████████████████████████████████▌                                                          | 2/4 [00:03<00:03,  1.80s/it]ERROR:root:3
+ERROR:root:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:06<00:00,  1.54s/it] 
+Boone Trip 2014
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:53<00:00,  3.84s/it]
+Delmonte Pictures
+ 89%|██████████████████████████████████████████████████████████████████████████████████████████████████████▌            | 41/46 [01:53<00:43,  8.67s/it]ERROR:root:3
+ERROR:root:Could not add 'Picasa.ini' to library -- Failed: There was an error while trying to create this media item.
+ 98%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌  | 45/46 [01:59<00:03,  3.28s/it]ERROR:root:3
+ERROR:root:Could not add 'Thumbs.db' to library -- Failed: There was an error while trying to create this media item.
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 46/46 [02:00<00:00,  2.62s/it] 

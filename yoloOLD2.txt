@@ -1,0 +1,1 @@
+01/04/2021 10_21_54 PM upload.upload_photos:ERROR:Could not read file 'd/BaiPhotosFolders/final/additional' -- [Errno 13] Permission denied: 'd/BaiPhotosFolders/final/additional'

@@ -1,8 +1,8 @@
 {
 "installed":
 	{
-		"client_id":"YOUR_CLIENT_ID",
-		"client_secret":"YOUR_CLIENT_SECRET",
+		"client_id":"1013853420633-dgv2q7uf8m8c9llf185th5vg2rlgpgfh.apps.googleusercontent.com",
+		"client_secret":"JF3zKYVWiq_A0UHdkHYqHq3x",
 		"auth_uri":"https://accounts.google.com/o/oauth2/auth",
 		"token_uri":"https://www.googleapis.com/oauth2/v3/token",
 		"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",

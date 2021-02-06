@@ -1,0 +1,2 @@
+01/04/2021 02_22_41 PM upload.upload_photos:ERROR:Could not add 'Album15_0019.jpg' to library. Server Response -- {'error': {'code': 409, 'message': 'The operation was aborted.', 'status': 'ABORTED'}}
+01/04/2021 04_46_20 PM upload.upload_photos:ERROR:Could not read file 'Scanned Photos/Shilpa&Santoshwedding_A1/backs' -- [Errno 13] Permission denied: 'Scanned Photos/Shilpa&Santoshwedding_A1/backs'

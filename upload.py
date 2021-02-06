@@ -5,6 +5,9 @@ import json
 import os.path
 import argparse
 import logging
+import time
+from tqdm import tqdm
+import logging.config
 
 def parse_args(arg_input=None):
     parser = argparse.ArgumentParser(description='Upload photos to Google Photos.')
@@ -74,7 +77,7 @@ def save_cred(cred, auth_file):
         'client_secret': cred.client_secret
     }
 
-    with open(auth_file, 'w') as f:
+    with open('newFile.json', 'w') as f:
         print(json.dumps(cred_dict), file=f)
 
 # Generator to loop through all albums
@@ -140,7 +143,7 @@ def upload_photos(session, photo_file_list, album_name):
     session.headers["Content-type"] = "application/octet-stream"
     session.headers["X-Goog-Upload-Protocol"] = "raw"
 
-    for photo_file_name in photo_file_list:
+    for photo_file_name in tqdm(photo_file_list):
 
             try:
                 photo_file = open(photo_file_name, mode='rb')
@@ -165,12 +168,22 @@ def upload_photos(session, photo_file_list, album_name):
 
                 if "newMediaItemResults" in resp:
                     status = resp["newMediaItemResults"][0]["status"]
-                    if status.get("code") and (status.get("code") > 0):
+                    if status.get("code") and (status.get("code") > 429):
+                        print('hi')
+                    elif status.get("code") and (status.get("code") > 0):
+                        logging.error(status.get("code"))
                         logging.error("Could not add \'{0}\' to library -- {1}".format(os.path.basename(photo_file_name), status["message"]))
                     else:
                         logging.info("Added \'{}\' to library and album \'{}\' ".format(os.path.basename(photo_file_name), album_name))
                 else:
-                    logging.error("Could not add \'{0}\' to library. Server Response -- {1}".format(os.path.basename(photo_file_name), resp))
+                    if resp['error']['code'] == 429:
+                        time.sleep(20)
+                        upload_token = session.post('https://photoslibrary.googleapis.com/v1/uploads', photo_bytes)
+                        if (upload_token.status_code == 200) and (upload_token.content):
+                            create_body = json.dumps({"albumId":album_id, "newMediaItems":[{"description":"","simpleMediaItem":{"uploadToken":upload_token.content.decode()}}]}, indent=4)
+                            resp = session.post('https://photoslibrary.googleapis.com/v1/mediaItems:batchCreate', create_body).json()
+                    else:
+                        logging.error("Could not add \'{0}\' to library. Server Response -- {1}".format(os.path.basename(photo_file_name), resp))
 
             else:
                 logging.error("Could not upload \'{0}\'. Server Response - {1}".format(os.path.basename(photo_file_name), upload_token))
@@ -183,13 +196,16 @@ def upload_photos(session, photo_file_list, album_name):
         pass
 
 def main():
+    
+
+    logging.config.fileConfig('logging.conf')
 
     args = parse_args()
 
     logging.basicConfig(format='%(asctime)s %(module)s.%(funcName)s:%(levelname)s:%(message)s',
                     datefmt='%m/%d/%Y %I_%M_%S %p',
-                    filename=args.log_file,
-                    level=logging.INFO)
+                    filename='yolo.txt',
+                    level=logging.Error)
 
     session = get_authorized_session(args.auth_file)
 
